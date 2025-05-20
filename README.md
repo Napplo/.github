@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://your-image-host.com/napplo-logo.png" alt="Napplo Logo" width="400">
-  <h1>Welcome to Napplo</h1>
+  <h1>Welcome to <img src="logo.png" alt="Napplo" height="60" style="vertical-align: middle; margin-left: -12px;"></h1>
   <p>Community-driven app development platform connecting developers, facilitating collaboration, and showcasing innovative applications</p>
   
   <a href="https://napplo.com">Website</a> •
-  <a href="https://napplo.com/join">Join Our Community</a> •
+  <a href="https://www.linkedin.com/company/107113827/">Join Our Community</a> •
   <a href="https://github.com/napplo/challenges">View Challenges</a>
 </div>
 
@@ -31,8 +30,6 @@ Browse our app development challenges by difficulty level:
 
 - [Napplo Platform](https://napplo.com)
 - [Challenge Repository](https://github.com/napplo/challenges)
-- [Developer Documentation](https://docs.napplo.com)
-- [Community Guidelines](https://napplo.com/guidelines)
 
 ## 📊 GitHub Organizations
 
