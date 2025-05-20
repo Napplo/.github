@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Welcome to <img src="logo.png" alt="Napplo" height="60" style="vertical-align: middle; margin-left: -12px;"></h1>
+  <img src="logo.png" alt="Napplo" width="200">
+  <h1>Welcome, Fellow Developer!</h1>
   <p>Community-driven app development platform connecting developers, facilitating collaboration, and showcasing innovative applications</p>
   
   <a href="https://napplo.com">Website</a> •
